@@ -15,7 +15,7 @@
     <body>
     <center>
         <h1> Books Management </h1>
-        <h1>Books management 2</h1>
+        <h1> minh</h1>
         <h2>
             <a href="./new">Add new book</a>
             <a href="./list">List all books</a>
